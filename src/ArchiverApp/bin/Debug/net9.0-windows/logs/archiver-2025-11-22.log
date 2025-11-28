@@ -1,0 +1,167 @@
+[2025-11-22 12:48:24] [INFO] Application started
+[2025-11-22 12:48:26] [INFO] Database connection failed: 28P01: ���������� "postgres" �� ������� �������������� �� ��������� ������
+[2025-11-22 12:49:16] [INFO] Database connection established
+[2025-11-22 12:49:16] [INFO] Settings updated
+[2025-11-22 12:49:24] [INFO] Database connection established
+[2025-11-22 12:49:24] [INFO] Settings updated
+[2025-11-22 12:49:38] [INFO] Loaded archive: C:\Users\ykrop\Downloads\БIC.zip
+[2025-11-22 12:49:46] [INFO] Error testing archive: Cannot access a disposed context instance. A common cause of this error is disposing a context instance that was resolved from dependency injection and then later trying to use the same context instance elsewhere in your application. This may occur if you are calling 'Dispose' on the context instance, or wrapping it in a using statement. If you are using dependency injection, you should let the dependency injection container take care of disposing context instances.
+Object name: 'ArchiverDbContext'.
+[2025-11-22 12:52:15] [INFO] Archive split into 13 volumes
+[2025-11-22 12:52:15] [INFO] Error splitting archive: Cannot access a disposed context instance. A common cause of this error is disposing a context instance that was resolved from dependency injection and then later trying to use the same context instance elsewhere in your application. This may occur if you are calling 'Dispose' on the context instance, or wrapping it in a using statement. If you are using dependency injection, you should let the dependency injection container take care of disposing context instances.
+Object name: 'ArchiverDbContext'.
+[2025-11-22 12:54:04] [INFO] Application started
+[2025-11-22 12:54:05] [INFO] Database connection established
+[2025-11-22 12:54:09] [INFO] Loaded archive: C:\Users\ykrop\Downloads\БIC.zip
+[2025-11-22 12:54:11] [INFO] Archive is valid. 13 entries checked.
+[2025-11-22 12:54:29] [INFO] Archive split into 13 volumes
+[2025-11-22 12:55:05] [INFO] Checksum: af32a307270fb481e05845936c327a88a0d5632b82cb3436635f6ca238ea1410
+[2025-11-22 12:55:59] [INFO] Deleted 1 files
+[2025-11-22 12:55:59] [INFO] New checksum: a24bdc70d25406a61bff8ebb3c9b174e9fc3972d17c72dd4f448c9a66ff551ed
+[2025-11-22 12:55:59] [INFO] Loaded archive: C:\Users\ykrop\Downloads\БIC.zip
+[2025-11-22 12:56:07] [INFO] Added 1 files
+[2025-11-22 12:56:07] [INFO] New checksum: 9a7c80a837172649e54636bfa49736d2d5bc7eca51d6d2416ee131d5e7af924c
+[2025-11-22 12:56:07] [INFO] Loaded archive: C:\Users\ykrop\Downloads\БIC.zip
+[2025-11-22 12:56:17] [INFO] Application closed
+[2025-11-22 13:00:31] [INFO] Application started
+[2025-11-22 13:00:32] [INFO] Database connection established
+[2025-11-22 13:01:43] [INFO] Application closed
+[2025-11-22 13:10:50] [INFO] Application started
+[2025-11-22 13:10:51] [INFO] Database connection established
+[2025-11-22 13:11:14] [INFO] Loaded archive: C:\Users\ykrop\Downloads\БIC.zip
+[2025-11-22 13:11:16] [INFO] Archive is valid. 13 entries checked.
+[2025-11-22 13:11:19] [INFO] Application closed
+[2025-11-22 13:34:15] [INFO] Application started
+[2025-11-22 13:34:16] [INFO] Database connection established
+[2025-11-22 13:34:26] [INFO] Loaded archive: C:\Users\ykrop\Downloads\БIC.zip
+[2025-11-22 13:34:55] [INFO] Application closed
+[2025-11-22 13:45:56] [INFO] Application started
+[2025-11-22 13:45:57] [INFO] Database connection established
+[2025-11-22 13:46:29] [INFO] Archive created: D:\test4\test_arch.tar
+[2025-11-22 13:46:29] [INFO] Checksum: 914ee8701ea40b71b5c39fc534ecff4ccb2fe3f25a8ac58fca4590fb50b3d370
+[2025-11-22 13:46:30] [INFO] Loaded archive: D:\test4\test_arch.tar
+[2025-11-22 13:46:50] [INFO] Loaded archive: D:\test4\test_arch.tar
+[2025-11-22 13:47:03] [INFO] Deleted 1 files
+[2025-11-22 13:47:03] [INFO] New checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+[2025-11-22 13:47:03] [INFO] Loaded archive: D:\test4\test_arch.tar
+[2025-11-22 13:47:25] [INFO] Added 4 files
+[2025-11-22 13:47:25] [INFO] New checksum: 941bd420673b1ab08101274f00a848e72ae8238ed6a73354bc553afeab66979e
+[2025-11-22 13:47:25] [INFO] Loaded archive: D:\test4\test_arch.tar
+[2025-11-22 13:47:35] [INFO] Archive is valid. 4 entries checked.
+[2025-11-22 13:47:44] [INFO] Checksum: 941bd420673b1ab08101274f00a848e72ae8238ed6a73354bc553afeab66979e
+[2025-11-22 13:48:17] [INFO] Archive is valid. 4 entries checked.
+[2025-11-22 14:19:12] [INFO] Application started
+[2025-11-22 14:19:13] [INFO] Database connection established
+[2025-11-22 14:19:29] [INFO] Loaded archive: D:\test4\test_arch.tar
+[2025-11-22 14:19:33] [INFO] Archive is valid. 4 entries checked.
+[2025-11-22 14:19:39] [INFO] Checksum: 941bd420673b1ab08101274f00a848e72ae8238ed6a73354bc553afeab66979e
+[2025-11-22 14:20:39] [INFO] Database connection established
+[2025-11-22 14:20:39] [INFO] Settings updated
+[2025-11-22 14:20:56] [INFO] Added 1 files
+[2025-11-22 14:20:56] [INFO] New checksum: 1c2d9c111f87f54d4d45f3c933e7772f4f6a698aeb681295844ef142e2281389
+[2025-11-22 14:20:56] [INFO] Loaded archive: D:\test4\test_arch.tar
+[2025-11-22 14:22:17] [INFO] Extracted to: C:\Users\ykrop\Downloads\ass
+[2025-11-22 14:25:53] [INFO] Added 1 files
+[2025-11-22 14:25:53] [INFO] New checksum: 1dd724465f1c294439f47361b601ce45984fcf597364497556dcc6ada467e29c
+[2025-11-22 14:25:53] [INFO] Loaded archive: D:\test4\test_arch.tar
+[2025-11-22 14:26:18] [INFO] Archive is valid. 6 entries checked.
+[2025-11-22 14:26:26] [INFO] Checksum: 1dd724465f1c294439f47361b601ce45984fcf597364497556dcc6ada467e29c
+[2025-11-22 14:27:30] [INFO] Deleted 1 files
+[2025-11-22 14:27:30] [INFO] New checksum: 1c2d9c111f87f54d4d45f3c933e7772f4f6a698aeb681295844ef142e2281389
+[2025-11-22 14:27:30] [INFO] Loaded archive: D:\test4\test_arch.tar
+[2025-11-22 14:28:15] [INFO] Archive closed
+[2025-11-22 14:28:21] [INFO] Loaded archive: C:\Users\ykrop\Downloads\БIC.zip
+[2025-11-22 14:28:34] [INFO] Deleted 1 files
+[2025-11-22 14:28:34] [INFO] New checksum: a24bdc70d25406a61bff8ebb3c9b174e9fc3972d17c72dd4f448c9a66ff551ed
+[2025-11-22 14:28:34] [INFO] Loaded archive: C:\Users\ykrop\Downloads\БIC.zip
+[2025-11-22 14:28:38] [INFO] Archive is valid. 12 entries checked.
+[2025-11-22 14:28:41] [INFO] Checksum: a24bdc70d25406a61bff8ebb3c9b174e9fc3972d17c72dd4f448c9a66ff551ed
+[2025-11-22 14:28:44] [INFO] Archive is valid. 12 entries checked.
+[2025-11-22 14:30:25] [INFO] Added 1 files
+[2025-11-22 14:30:25] [INFO] New checksum: ebac4a308638f1fa69f0beb8e4e80cb9723a0c41b81bbdfe2381dfdf00e32862
+[2025-11-22 14:30:25] [INFO] Loaded archive: C:\Users\ykrop\Downloads\БIC.zip
+[2025-11-22 14:31:17] [INFO] Error deleting archive metadata: An error occurred while saving the entity changes. See the inner exception for details.
+[2025-11-22 14:31:35] [INFO] Archive closed
+[2025-11-22 14:33:06] [INFO] Archive created: C:\Users\ykrop\Downloads\ass\hf.zip
+[2025-11-22 14:33:06] [INFO] Checksum: 8afd4ca83df86c36be7ac41b48f38f624d798b2115069a3e98b1191727a14581
+[2025-11-22 14:33:06] [INFO] Loaded archive: C:\Users\ykrop\Downloads\ass\hf.zip
+[2025-11-22 14:33:18] [INFO] Loaded archive: C:\Users\ykrop\Downloads\ass\hf.zip
+[2025-11-22 14:33:33] [INFO] Archive closed
+[2025-11-22 14:33:36] [INFO] Loaded archive: C:\Users\ykrop\Downloads\ass\hf.zip
+[2025-11-22 14:34:11] [INFO] Deleted 11 files
+[2025-11-22 14:34:11] [INFO] New checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+[2025-11-22 14:34:11] [INFO] Loaded archive: C:\Users\ykrop\Downloads\ass\hf.zip
+[2025-11-22 14:53:23] [INFO] Application started
+[2025-11-22 14:53:24] [INFO] Database connection established
+[2025-11-22 14:53:34] [INFO] Database connection established
+[2025-11-22 14:53:34] [INFO] Settings updated
+[2025-11-22 14:53:41] [INFO] Loaded archive: C:\Users\ykrop\Downloads\ass\hf.zip
+[2025-11-22 14:53:49] [INFO] Checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+[2025-11-22 14:53:54] [INFO] Archive is valid. 0 entries checked.
+[2025-11-22 14:54:45] [INFO] Added 1 files
+[2025-11-22 14:54:45] [INFO] New checksum: 548c400a3ba67044a212fbd3e5866419024d8677d4582cd8fbfeaf3d8d4637f7
+[2025-11-22 14:54:45] [INFO] Loaded archive: C:\Users\ykrop\Downloads\ass\hf.zip
+[2025-11-22 14:54:49] [INFO] Checksum: 548c400a3ba67044a212fbd3e5866419024d8677d4582cd8fbfeaf3d8d4637f7
+[2025-11-22 15:10:40] [INFO] Application started
+[2025-11-22 15:10:41] [INFO] Database connection established
+[2025-11-22 15:10:51] [INFO] Loaded archive: C:\Users\ykrop\Downloads\ass\hf.zip
+[2025-11-22 15:10:59] [INFO] Archive is valid. 1 entries checked.
+[2025-11-22 15:11:31] [INFO] Added 1 files
+[2025-11-22 15:11:31] [INFO] New checksum: dd8fc94508ee85d692d52396105a4d2f1a7bdfd07ab04f31b132302ea2d481f4
+[2025-11-22 15:11:31] [INFO] Loaded archive: C:\Users\ykrop\Downloads\ass\hf.zip
+[2025-11-22 15:12:35] [INFO] Extracted to: C:\Users\ykrop\Downloads\ass\щд
+[2025-11-22 15:13:34] [INFO] Database connection established
+[2025-11-22 15:13:34] [INFO] Settings updated
+[2025-11-22 15:18:12] [INFO] Archive closed
+[2025-11-22 15:18:30] [INFO] Loaded archive: D:\test4\test_arch.tar
+[2025-11-22 15:19:23] [INFO] Added 1 files
+[2025-11-22 15:19:23] [INFO] New checksum: 5c1acd2f5f737b5958b4726360401b79acba11796f4bd033b101e06c3f217b27
+[2025-11-22 15:19:23] [INFO] Loaded archive: D:\test4\test_arch.tar
+[2025-11-22 15:25:55] [INFO] Archive closed
+[2025-11-22 15:27:23] [INFO] Database connection established
+[2025-11-22 15:27:23] [INFO] Settings updated
+[2025-11-22 15:27:29] [INFO] Loaded archive: C:\Users\ykrop\Downloads\БIC.zip
+[2025-11-22 15:27:49] [INFO] Archive is valid. 13 entries checked.
+[2025-11-22 15:27:52] [INFO] Checksum: ebac4a308638f1fa69f0beb8e4e80cb9723a0c41b81bbdfe2381dfdf00e32862
+[2025-11-22 15:29:47] [INFO] Deleted 11 files
+[2025-11-22 15:29:47] [INFO] New checksum: 333b9bcf76122cbf1892748150e53cc39c7d1ec7fa71b2a1e5d1db83aa129fc9
+[2025-11-22 15:29:47] [INFO] Loaded archive: C:\Users\ykrop\Downloads\БIC.zip
+[2025-11-22 15:30:18] [INFO] Database connection established
+[2025-11-22 15:30:18] [INFO] Settings updated
+[2025-11-22 15:38:41] [INFO] Application started
+[2025-11-22 15:38:43] [INFO] Database connection established
+[2025-11-22 15:40:15] [INFO] Archive created: D:\test_shit\shit.zip
+[2025-11-22 15:40:15] [INFO] Checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+[2025-11-22 15:40:15] [INFO] Loaded archive: D:\test_shit\shit.zip
+[2025-11-22 15:40:38] [INFO] Error adding files: An error occurred while saving the entity changes. See the inner exception for details.
+[2025-11-22 15:44:53] [INFO] Application closed
+[2025-11-22 15:45:15] [INFO] Application started
+[2025-11-22 15:45:16] [INFO] Database connection established
+[2025-11-22 15:45:31] [INFO] Loaded archive: D:\test_shit\shit.zip
+[2025-11-22 15:51:16] [INFO] Application started
+[2025-11-22 15:51:17] [INFO] Database connection established
+[2025-11-22 15:51:28] [INFO] Loaded archive: D:\test_shit\shit.zip
+[2025-11-22 15:51:37] [INFO] Deleted 1 files
+[2025-11-22 15:51:37] [INFO] New checksum: 53330118c5d3798666d83e96039f1649c87636656326e26b6d90d566d864e3e1
+[2025-11-22 15:51:37] [INFO] Loaded archive: D:\test_shit\shit.zip
+[2025-11-22 15:52:36] [INFO] Archive closed
+[2025-11-22 15:53:11] [INFO] Archive created: D:\test_shit\absolute_shit.tar
+[2025-11-22 15:53:11] [INFO] Checksum: 178b54f8fa50509fe7945b66e946856308f8160b58cb2bcd51ee10d7792be51d
+[2025-11-22 15:53:11] [INFO] Loaded archive: D:\test_shit\absolute_shit.tar
+[2025-11-22 15:54:40] [INFO] Archive is valid. 1 entries checked.
+[2025-11-22 15:55:06] [INFO] Added 1 files
+[2025-11-22 15:55:06] [INFO] New checksum: cc7b444f1babaf3d3865c571375c58d4bc1a81acd18b1e54450f633e4cfc2313
+[2025-11-22 15:55:06] [INFO] Loaded archive: D:\test_shit\absolute_shit.tar
+[2025-11-22 15:55:42] [INFO] Archive closed
+[2025-11-22 15:56:44] [INFO] Loaded archive: D:\test_shit\absolute_shit.tar
+[2025-11-22 15:57:16] [INFO] Archive split into 13 volumes
+[2025-11-22 15:58:00] [INFO] Archive closed
+[2025-11-22 15:58:45] [INFO] Volumes merged to: D:\test_shit\absolute_shit.tar
+[2025-11-22 15:59:23] [INFO] Loaded archive: D:\test_shit\absolute_shit.tar
+[2025-11-22 15:59:33] [INFO] Extracted to: D:\test_shit
+[2025-11-22 15:59:59] [INFO] Archive closed
+[2025-11-22 16:00:38] [INFO] Error creating archive: Unable to read beyond the end of the stream.
+[2025-11-22 16:02:16] [INFO] Archive closed
+[2025-11-22 16:02:18] [INFO] Error loading archive contents: Unable to read beyond the end of the stream.
+[2025-11-22 16:02:40] [INFO] Application started
+[2025-11-22 16:02:41] [INFO] Database connection established

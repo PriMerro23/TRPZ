@@ -1,0 +1,12 @@
+D:\PROGA\TRPZ\acrhiver34\ArchiverCore\obj\Debug\net9.0\ArchiverCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGA\TRPZ\acrhiver34\ArchiverCore\obj\Debug\net9.0\ArchiverCore.AssemblyInfoInputs.cache
+D:\PROGA\TRPZ\acrhiver34\ArchiverCore\obj\Debug\net9.0\ArchiverCore.AssemblyInfo.cs
+D:\PROGA\TRPZ\acrhiver34\ArchiverCore\obj\Debug\net9.0\ArchiverCore.csproj.CoreCompileInputs.cache
+D:\PROGA\TRPZ\acrhiver34\ArchiverCore\bin\Debug\net9.0\ArchiverCore.deps.json
+D:\PROGA\TRPZ\acrhiver34\ArchiverCore\bin\Debug\net9.0\ArchiverCore.dll
+D:\PROGA\TRPZ\acrhiver34\ArchiverCore\bin\Debug\net9.0\ArchiverCore.pdb
+D:\PROGA\TRPZ\acrhiver34\ArchiverCore\obj\Debug\net9.0\ArchiverCore.dll
+D:\PROGA\TRPZ\acrhiver34\ArchiverCore\obj\Debug\net9.0\refint\ArchiverCore.dll
+D:\PROGA\TRPZ\acrhiver34\ArchiverCore\obj\Debug\net9.0\ArchiverCore.pdb
+D:\PROGA\TRPZ\acrhiver34\ArchiverCore\obj\Debug\net9.0\ref\ArchiverCore.dll
+D:\PROGA\TRPZ\acrhiver34\ArchiverCore\obj\Debug\net9.0\ArchiverCore.sourcelink.json

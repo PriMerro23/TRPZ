@@ -1,0 +1,139 @@
+[2025-11-23 07:35:51] [INFO] Application started
+[2025-11-23 07:35:53] [INFO] Database connection established
+[2025-11-23 07:35:57] [INFO] Error loading archive contents: Unable to read beyond the end of the stream.
+[2025-11-23 07:37:29] [INFO] Error creating archive: Unable to read beyond the end of the stream.
+[2025-11-23 07:38:26] [INFO] Application closed
+[2025-11-23 07:40:46] [INFO] Application started
+[2025-11-23 07:40:48] [INFO] Database connection established
+[2025-11-23 07:53:10] [INFO] Application started
+[2025-11-23 07:53:11] [INFO] Database connection established
+[2025-11-23 07:53:53] [INFO] Archive created: D:\new_shit\test.zip
+[2025-11-23 07:53:53] [INFO] Checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+[2025-11-23 07:53:53] [INFO] Loaded archive: D:\new_shit\test.zip
+[2025-11-23 07:54:13] [INFO] Added 2 files
+[2025-11-23 07:54:13] [INFO] New checksum: f9ee186ca923cb017e91427e11d8e754b7c1b723a311904d4560457ebf2fe493
+[2025-11-23 07:54:13] [INFO] Loaded archive: D:\new_shit\test.zip
+[2025-11-23 07:54:18] [INFO] Archive is valid. 2 entries checked.
+[2025-11-23 07:54:26] [INFO] Checksum: f9ee186ca923cb017e91427e11d8e754b7c1b723a311904d4560457ebf2fe493
+[2025-11-23 07:59:02] [INFO] Archive closed
+[2025-11-23 07:59:41] [INFO] Error creating archive: Unable to read beyond the end of the stream.
+[2025-11-23 08:00:09] [INFO] Application closed
+[2025-11-23 08:00:17] [INFO] Application started
+[2025-11-23 08:00:18] [INFO] Database connection established
+[2025-11-23 08:03:50] [INFO] Loaded archive: C:\Users\ykrop\Downloads\Downloads.tar
+[2025-11-23 08:07:14] [INFO] Archive created: C:\Users\ykrop\Downloads\БIC\test.tar.gz
+[2025-11-23 08:07:14] [INFO] Checksum: bc2dddd3fda5c4c6c6b1333458bc8a4f14bbf9bc19fea7a4b84628293e688612
+[2025-11-23 08:07:14] [INFO] Loaded archive: C:\Users\ykrop\Downloads\БIC\test.tar.gz
+[2025-11-23 08:07:49] [INFO] Archive is valid. 11 entries checked.
+[2025-11-23 08:08:00] [INFO] Checksum: bc2dddd3fda5c4c6c6b1333458bc8a4f14bbf9bc19fea7a4b84628293e688612
+[2025-11-23 08:09:10] [INFO] Archive closed
+[2025-11-23 08:12:13] [INFO] Application started
+[2025-11-23 08:12:14] [INFO] Database connection established
+[2025-11-23 08:12:34] [INFO] Archive created: D:\CIR\CIR\rt.tar.gz
+[2025-11-23 08:12:34] [INFO] Checksum: 3162a6e248144d8abbbdfedd2b4b57557a62c444d4875ddc8d85517e8e3b70a2
+[2025-11-23 08:12:34] [INFO] Loaded archive: D:\CIR\CIR\rt.tar.gz
+[2025-11-23 08:14:08] [INFO] Archive is valid. 136 entries checked.
+[2025-11-23 08:14:11] [INFO] Archive is valid. 136 entries checked.
+[2025-11-23 08:15:35] [INFO] Archive split into 1 volumes
+[2025-11-23 08:17:48] [INFO] Application closed
+[2025-11-23 08:31:32] [INFO] Application started
+[2025-11-23 08:31:33] [INFO] Database connection established
+[2025-11-23 08:31:58] [INFO] Archive created: D:\new_shit\test.zip
+[2025-11-23 08:31:58] [INFO] Checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+[2025-11-23 08:31:58] [INFO] Loaded archive: D:\new_shit\test.zip
+[2025-11-23 08:32:09] [INFO] Application closed
+[2025-11-23 08:32:22] [INFO] Application started
+[2025-11-23 08:32:23] [INFO] Database connection established
+[2025-11-23 08:32:50] [INFO] Error creating archive: Unable to read beyond the end of the stream.
+[2025-11-23 08:33:15] [INFO] Archive created: D:\new_shit\ny.tar.gz
+[2025-11-23 08:33:15] [INFO] Checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+[2025-11-23 08:33:15] [INFO] Loaded archive: D:\new_shit\ny.tar.gz
+[2025-11-23 08:42:34] [INFO] Application closed
+[2025-11-23 09:25:05] [INFO] Application started
+[2025-11-23 09:25:08] [INFO] Database connection established
+[2025-11-23 09:29:05] [INFO] Application started
+[2025-11-23 09:29:06] [INFO] Database connection established
+[2025-11-23 09:29:43] [INFO] Archive created: D:\new_shit\пр.tar.gz
+[2025-11-23 09:29:43] [INFO] Checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+[2025-11-23 09:29:43] [INFO] Loaded archive: D:\new_shit\пр.tar.gz
+[2025-11-23 09:30:00] [INFO] Added 2 files
+[2025-11-23 09:30:00] [INFO] New checksum: f9ee186ca923cb017e91427e11d8e754b7c1b723a311904d4560457ebf2fe493
+[2025-11-23 09:30:00] [INFO] Loaded archive: D:\new_shit\пр.tar.gz
+[2025-11-23 09:30:07] [INFO] Archive is valid. 2 entries checked.
+[2025-11-23 09:30:10] [INFO] Checksum: f9ee186ca923cb017e91427e11d8e754b7c1b723a311904d4560457ebf2fe493
+[2025-11-23 09:30:32] [INFO] Archive closed
+[2025-11-23 09:37:23] [INFO] Application started
+[2025-11-23 09:37:23] [INFO] Database connection established
+[2025-11-23 09:37:40] [INFO] Loaded archive: D:\new_shit\пр.tar.gz
+[2025-11-23 09:37:48] [INFO] Deleted 2 files
+[2025-11-23 09:37:48] [INFO] New checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+[2025-11-23 09:37:48] [INFO] Loaded archive: D:\new_shit\пр.tar.gz
+[2025-11-23 09:38:15] [INFO] Added 1 files
+[2025-11-23 09:38:15] [INFO] New checksum: 8a9a11fbfc8c11a1bb591c20c397596dcce593f0622c3806ed3e1722266ac1ac
+[2025-11-23 09:38:15] [INFO] Loaded archive: D:\new_shit\пр.tar.gz
+[2025-11-23 09:38:25] [INFO] Archive is valid. 1 entries checked.
+[2025-11-23 09:39:37] [INFO] Archive closed
+[2025-11-23 09:39:40] [INFO] Application closed
+[2025-11-23 09:40:53] [INFO] Application started
+[2025-11-23 09:40:55] [INFO] Database connection established
+[2025-11-23 09:41:30] [INFO] Archive created: D:\new_shit\dod.zip
+[2025-11-23 09:41:30] [INFO] Checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+[2025-11-23 09:41:30] [INFO] Loaded archive: D:\new_shit\dod.zip
+[2025-11-23 09:41:51] [INFO] Added 1 files
+[2025-11-23 09:41:51] [INFO] New checksum: 3c41d23b4391e40900876d9f4b4da4ad491b86edf7075d0e8778561523a1210e
+[2025-11-23 09:41:51] [INFO] Loaded archive: D:\new_shit\dod.zip
+[2025-11-23 09:45:26] [INFO] Application started
+[2025-11-23 09:45:27] [INFO] Database connection established
+[2025-11-23 09:45:40] [INFO] Loaded archive: D:\new_shit\dod.zip
+[2025-11-23 09:45:51] [INFO] Archive metadata deleted from database: D:\new_shit\dod.zip
+[2025-11-23 09:46:03] [INFO] Archive closed
+[2025-11-23 09:55:48] [INFO] Application started
+[2025-11-23 09:55:49] [INFO] Database connection established
+[2025-11-23 09:56:17] [INFO] Archive created: D:\kop\top.tar.gz
+[2025-11-23 09:56:17] [INFO] Checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+[2025-11-23 09:56:17] [INFO] Loaded archive: D:\kop\top.tar.gz
+[2025-11-23 09:56:30] [INFO] Added 1 files
+[2025-11-23 09:56:30] [INFO] New checksum: 3c41d23b4391e40900876d9f4b4da4ad491b86edf7075d0e8778561523a1210e
+[2025-11-23 09:56:30] [INFO] Loaded archive: D:\kop\top.tar.gz
+[2025-11-23 09:57:06] [INFO] Deleted 1 files
+[2025-11-23 09:57:06] [INFO] New checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+[2025-11-23 09:57:06] [INFO] Loaded archive: D:\kop\top.tar.gz
+[2025-11-23 09:57:16] [INFO] Added 1 files
+[2025-11-23 09:57:16] [INFO] New checksum: bd2f02e034e76bb52cb5333d5eeebb5b2f9f0aa5877c117d86063081bdb4c90b
+[2025-11-23 09:57:16] [INFO] Loaded archive: D:\kop\top.tar.gz
+[2025-11-23 09:57:58] [INFO] Archive closed
+[2025-11-23 09:58:17] [INFO] Archive created: D:\kop\top.zip
+[2025-11-23 09:58:17] [INFO] Checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+[2025-11-23 09:58:17] [INFO] Loaded archive: D:\kop\top.zip
+[2025-11-23 09:58:26] [INFO] Added 1 files
+[2025-11-23 09:58:26] [INFO] New checksum: bd2f02e034e76bb52cb5333d5eeebb5b2f9f0aa5877c117d86063081bdb4c90b
+[2025-11-23 09:58:26] [INFO] Loaded archive: D:\kop\top.zip
+[2025-11-23 09:59:41] [INFO] Archive closed
+[2025-11-23 10:00:44] [INFO] Archive created: D:\new_shit\top.tar.gz
+[2025-11-23 10:00:44] [INFO] Checksum: bd2f02e034e76bb52cb5333d5eeebb5b2f9f0aa5877c117d86063081bdb4c90b
+[2025-11-23 10:00:44] [INFO] Loaded archive: D:\new_shit\top.tar.gz
+[2025-11-23 10:01:52] [INFO] Archive closed
+[2025-11-23 10:02:09] [INFO] Archive created: D:\new_shit\top.tar
+[2025-11-23 10:02:09] [INFO] Checksum: bd2f02e034e76bb52cb5333d5eeebb5b2f9f0aa5877c117d86063081bdb4c90b
+[2025-11-23 10:02:09] [INFO] Loaded archive: D:\new_shit\top.tar
+[2025-11-23 10:04:00] [INFO] Deleted 1 files
+[2025-11-23 10:04:00] [INFO] New checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+[2025-11-23 10:04:00] [INFO] Loaded archive: D:\new_shit\top.tar
+[2025-11-23 10:04:09] [INFO] Application closed
+[2025-11-23 11:28:37] [INFO] Application started
+[2025-11-23 11:28:38] [INFO] Database connection established
+[2025-11-23 11:29:15] [INFO] Application closed
+[2025-11-23 11:33:34] [INFO] Application started
+[2025-11-23 11:33:35] [INFO] Database connection established
+[2025-11-23 12:25:54] [INFO] Application started
+[2025-11-23 12:25:55] [INFO] Database connection established
+[2025-11-23 12:26:07] [INFO] Application closed
+[2025-11-23 17:37:16] [INFO] Application started
+[2025-11-23 17:37:18] [INFO] Database connection established
+[2025-11-23 17:37:26] [INFO] Application closed
+[2025-11-23 17:54:23] [INFO] Application started
+[2025-11-23 17:54:24] [INFO] Database connection established
+[2025-11-23 17:54:27] [INFO] Application closed
+[2025-11-23 18:47:20] [INFO] Application started
+[2025-11-23 18:47:22] [INFO] Database connection established
+[2025-11-23 18:49:45] [INFO] Application closed
